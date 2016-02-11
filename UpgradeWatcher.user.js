@@ -29,7 +29,7 @@
 
 // Version Log:
 //		v2.6.1 (11.02.2016)
-			- Comenzando el proceso de actualización...
+//			- Comenzando el proceso de actualización...
 //		v2.6.0 (oct 21, 2013)
 //			- Add black market (Thx Valkazaar).
 //			- Fix building costs errors (thx mrkokaney).

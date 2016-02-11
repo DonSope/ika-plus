@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Ikariam Upgrade Watcher 2
+// @name           Ikariam Upgrade Watcher
 // @version        2.6.1
 // @namespace      ikariam
 // @description    Attaches a simple icon on each building which show level and if upgradeable

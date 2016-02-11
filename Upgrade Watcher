@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name           Ikariam Upgrade Watcher 2
-// @version        2.6.0
+// @version        2.6.1
 // @namespace      ikariam
 // @description    Attaches a simple icon on each building which show level and if upgradeable
-// @author         Apollo ヅ, mrkokaney
+// @author         Apollo ヅ, mrkokaney, DonSope
 //                 based on an original script from Anh Tuan Nguyen Dao (http://www.atdao.dk) (Update by michalis)
 //                 Almost entirely rewritten for ikariam v0.5.0,
 //                 Original from Anh Tuan Nguyen Dao : http://userscripts.org/scripts/show/49385
@@ -28,6 +28,8 @@
 // ==/UserScript==
 
 // Version Log:
+//		v2.6.1 (11.02.2016)
+			- Comenzando el proceso de actualización...
 //		v2.6.0 (oct 21, 2013)
 //			- Add black market (Thx Valkazaar).
 //			- Fix building costs errors (thx mrkokaney).

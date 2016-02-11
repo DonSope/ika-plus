@@ -9,7 +9,7 @@
 //                 Original from Anh Tuan Nguyen Dao : http://userscripts.org/scripts/show/49385
 //                 Michalis update : http://userscripts.org/scripts/show/58694
 //
-// @downloadURL    https://userscripts.org/scripts/source/132499.user.js
+// @downloadURL    https://github.com/DonSope/ika-plus/raw/master/Upgrade%20Watcher.user.js
 // @updateURL      https://userscripts.org/scripts/source/132499.meta.js
 //
 // @include        http://s*.ikariam.gameforge.com/?action=loginAvatar&*

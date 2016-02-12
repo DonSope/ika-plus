@@ -9,8 +9,8 @@
 //                 Original from Anh Tuan Nguyen Dao : http://userscripts.org/scripts/show/49385
 //                 Michalis update : http://userscripts.org/scripts/show/58694
 //
-// @downloadURL    https://github.com/DonSope/ika-plus/raw/master/Upgrade%20Watcher.user.js
-// @updateURL      https://userscripts.org/scripts/source/132499.meta.js
+// @downloadURL    https://raw.githubusercontent.com/DonSope/ika-plus/master/UpgradeWatcher.user.js
+// @updateURL      https://raw.githubusercontent.com/DonSope/ika-plus/master/UpgradeWatcher.user.js
 //
 // @include        http://s*.ikariam.gameforge.com/?action=loginAvatar&*
 // @include        http://s*.ikariam.gameforge.com/?view=city&*
